@@ -14,9 +14,9 @@
 
 ## What I build
 
-I build autonomous AI systems that take real actions with real consequences — trading capital, navigating DeFi, accelerating other developers. Not chatbots. Not demos. Systems that *ship* and do work in production.
-
-**Available for freelance + consulting.** Best fit: hard problems with tight deadlines where the bar is "ship it," not "explore possibilities."
+> **I build autonomous AI systems that take real actions with real consequences** — trading capital, navigating DeFi, accelerating other developers. Not chatbots. Not demos. Systems that *ship* and do work in production.
+>
+> **Available for freelance + consulting.** Best fit: hard problems with tight deadlines where the bar is "ship it," not "explore possibilities."
 
 ## Flagship projects
 
@@ -72,18 +72,18 @@ I build autonomous AI systems that take real actions with real consequences — 
 
 I reach for the **least complex architecture that ships**. Spec first, working software next, polish last. I build in the open, I build for real users, and I build to earn the next iteration — not to impress framework maximalists.
 
-Biases: edge-first, local-first, own-your-data, no unnecessary dependencies, no vendor lock-in I can't walk away from.
+**Biases:** Edge-first · Local-first · Own-your-data · Zero unnecessary dependencies · No vendor lock-in.
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Hedera](https://img.shields.io/badge/Hedera-222222?style=flat-square&logoColor=white)
-![Hyperliquid](https://img.shields.io/badge/Hyperliquid-50D2C1?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logoColor=white)
+![Hyperliquid](https://img.shields.io/badge/Hyperliquid-50D2C1?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Chris0x88">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Systems+Architect+%7C+Energy+Industry+Veteran;20+Years+Engineering+%2B+Commodity+Trading;Orchestrating+high-stakes+autonomous+AI;Building+the+tools+I+wished+I'd+had+at+the+trade+desk" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Systems+Architect+%7C+AI+%26+Robotics+Focus;20+Years+High-Stakes+Engineering+%2B+Trading;Orchestrating+autonomous+AI+assets;Building+the+tools+I+wished+I'd+had+at+the+trade+desk" />
   </a>
 </p>
 
@@ -15,9 +15,7 @@
 ## What I build
 
 > **I build autonomous AI systems that take real actions with real consequences.** 
-> Rooted in 20 years of professional engineering and petroleum industry leadership (running companies, trading gas, managing supply chains), I bridge the gap between complex industrial logic and future-facing autonomous frameworks.
->
-> **Available for high-stakes problem solving.** Best fit: complex systems that *must* perform in production.
+> Rooted in 20 years of professional engineering—running companies, trading gas, and managing petroleum assets—I am now focused on the intersection of **AI, Data, and Robotics.** I bridge the gap between complex industrial logic and future-facing autonomous frameworks.
 
 ## Flagship projects
 
@@ -42,7 +40,7 @@
         <img src="assets/logos/ausfuelwatch.png" width="160" alt="AusFuelWatch"/><br/>
         <b>AusFuelWatch</b>
       </a><br/>
-      <sub>Real-time Maritime Supply Chain Intelligence for Australian Fuel Security. Live AIS vessel tracking.</sub>
+      <sub>Industrial Intelligence Case Study: Real-time Maritime Supply Chain tracking for Australian Fuel Security.</sub>
     </td>
   </tr>
   <tr>

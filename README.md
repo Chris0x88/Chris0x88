@@ -24,21 +24,21 @@ I build autonomous AI systems that take real actions with real consequences — 
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/hyperliquid-agent">
-        <img src="assets/logos/hyperliquid-agent.svg" width="160" alt="hyperliquid-agent"/><br/>
+        <img src="assets/logos/hyperliquid-agent.png" width="160" alt="hyperliquid-agent"/><br/>
         <b>hyperliquid-agent</b>
       </a><br/>
       <sub>Autonomous Hyperliquid trading agent. 23 strategies orchestrated by APEX. No fees, no telemetry, your hardware. Open source.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/spacelord">
-        <img src="assets/logos/spacelord.svg" width="160" alt="Space Lord"/><br/>
+        <img src="assets/logos/spacelord.png" width="160" alt="Space Lord"/><br/>
         <b>Space Lord</b>
       </a><br/>
       <sub>AI-driven Hedera DeFi toolkit on local edge compute. SaucerSwap integration, token analysis, fully local-first.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/claude-cli-auth">
-        <img src="assets/logos/claude-cli-auth.svg" width="160" alt="claude-cli-auth"/><br/>
+        <img src="assets/logos/claude-cli-auth.png" width="160" alt="claude-cli-auth"/><br/>
         <b>claude-cli-auth</b>
       </a><br/>
       <sub>Authentication tooling for Claude Code workflows. Small, sharp, useful — built to kill a friction point I hit daily.</sub>
@@ -47,14 +47,14 @@ I build autonomous AI systems that take real actions with real consequences — 
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/btc-rebalancer">
-        <img src="assets/logos/btc-rebalancer.svg" width="160" alt="btc-rebalancer"/><br/>
+        <img src="assets/logos/btc-rebalancer.png" width="160" alt="btc-rebalancer"/><br/>
         <b>btc-rebalancer</b>
       </a><br/>
       <sub>Automated BTC/USDC rebalancing robot on Hedera + SaucerSwap. In production.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/saucerswap-python-sdk">
-        <img src="assets/logos/saucerswap-python-sdk.svg" width="160" alt="saucerswap-python-sdk"/><br/>
+        <img src="assets/logos/saucerswap-python-sdk.png" width="160" alt="saucerswap-python-sdk"/><br/>
         <b>saucerswap-python-sdk</b>
       </a><br/>
       <sub>The SDK I wished existed, so I built it. Powers my own trading infra and yours.</sub>

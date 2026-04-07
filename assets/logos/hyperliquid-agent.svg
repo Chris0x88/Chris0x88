@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#101a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#50D2C1"/>
+      <stop offset="1" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="url(#bg)" stroke="#1f2a44" stroke-width="2"/>
+  <!-- candlestick chart suggestion -->
+  <g stroke="url(#accent)" stroke-width="6" stroke-linecap="round" fill="none">
+    <path d="M40 140 L70 110 L100 125 L130 70 L160 50"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="40" cy="140" r="6"/>
+    <circle cx="70" cy="110" r="6"/>
+    <circle cx="100" cy="125" r="6"/>
+    <circle cx="130" cy="70" r="6"/>
+    <circle cx="160" cy="50" r="8"/>
+  </g>
+  <text x="100" y="180" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="18" font-weight="700" fill="#c9d1d9">hyperliquid</text>
+</svg>

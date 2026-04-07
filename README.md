@@ -20,21 +20,53 @@ I build autonomous AI systems that take real actions with real consequences — 
 
 ## Flagship projects
 
-[![hyperliquid-agent](https://github-readme-stats.vercel.app/api/pin/?username=Chris0x88&repo=hyperliquid-agent&theme=nightowl&border_radius=10&hide_border=true)](https://github.com/Chris0x88/hyperliquid-agent)
-[![spacelord](https://github-readme-stats.vercel.app/api/pin/?username=Chris0x88&repo=spacelord&theme=nightowl&border_radius=10&hide_border=true)](https://github.com/Chris0x88/spacelord)
-
-[![claude-cli-auth](https://github-readme-stats.vercel.app/api/pin/?username=Chris0x88&repo=claude-cli-auth&theme=nightowl&border_radius=10&hide_border=true)](https://github.com/Chris0x88/claude-cli-auth)
-[![btc-rebalancer](https://github-readme-stats.vercel.app/api/pin/?username=Chris0x88&repo=btc-rebalancer&theme=nightowl&border_radius=10&hide_border=true)](https://github.com/Chris0x88/btc-rebalancer)
-
-[![saucerswap-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=Chris0x88&repo=saucerswap-python-sdk&theme=nightowl&border_radius=10&hide_border=true)](https://github.com/Chris0x88/saucerswap-python-sdk)
-
-### The elevator pitch for each
-
-- **hyperliquid-agent** — Autonomous Hyperliquid trading agent. 23 strategies orchestrated by APEX. No fees, no telemetry, runs on your own hardware. Open source.
-- **Space Lord** — AI-driven Hedera DeFi toolkit running on local edge compute. SaucerSwap integration, token analysis, fully local-first.
-- **claude-cli-auth** — Authentication tooling for Claude Code workflows. Small, sharp, useful — built to kill a friction point I hit daily.
-- **btc-rebalancer** — Automated BTC/USDC rebalancing robot on Hedera + SaucerSwap. In production.
-- **saucerswap-python-sdk** — The SDK I wished existed, so I built it. Powers my own trading infra and yours.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88/hyperliquid-agent">
+        <img src="assets/logos/hyperliquid-agent.svg" width="160" alt="hyperliquid-agent"/><br/>
+        <b>hyperliquid-agent</b>
+      </a><br/>
+      <sub>Autonomous Hyperliquid trading agent. 23 strategies orchestrated by APEX. No fees, no telemetry, your hardware. Open source.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88/spacelord">
+        <img src="assets/logos/spacelord.svg" width="160" alt="Space Lord"/><br/>
+        <b>Space Lord</b>
+      </a><br/>
+      <sub>AI-driven Hedera DeFi toolkit on local edge compute. SaucerSwap integration, token analysis, fully local-first.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88/claude-cli-auth">
+        <img src="assets/logos/claude-cli-auth.svg" width="160" alt="claude-cli-auth"/><br/>
+        <b>claude-cli-auth</b>
+      </a><br/>
+      <sub>Authentication tooling for Claude Code workflows. Small, sharp, useful — built to kill a friction point I hit daily.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88/btc-rebalancer">
+        <img src="assets/logos/btc-rebalancer.svg" width="160" alt="btc-rebalancer"/><br/>
+        <b>btc-rebalancer</b>
+      </a><br/>
+      <sub>Automated BTC/USDC rebalancing robot on Hedera + SaucerSwap. In production.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88/saucerswap-python-sdk">
+        <img src="assets/logos/saucerswap-python-sdk.svg" width="160" alt="saucerswap-python-sdk"/><br/>
+        <b>saucerswap-python-sdk</b>
+      </a><br/>
+      <sub>The SDK I wished existed, so I built it. Powers my own trading infra and yours.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Chris0x88?tab=repositories">
+        <img src="https://img.shields.io/badge/More-on_GitHub-58A6FF?style=for-the-badge&logo=github" alt="More"/><br/>
+      </a><br/>
+      <sub>Freelance + consulting available — <a href="mailto:christopherimg+chris0x88@gmail.com">get in touch</a>.</sub>
+    </td>
+  </tr>
+</table>
 
 ## How I work
 
@@ -53,15 +85,6 @@ Biases: edge-first, local-first, own-your-data, no unnecessary dependencies, no 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris0x88&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chris0x88&theme=nightowl&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0x88&layout=compact&theme=nightowl&hide_border=true&langs_count=8" height="150"/>
-</p>
 
 ---
 

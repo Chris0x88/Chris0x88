@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://chris0x88.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=58a6ff"></a>
   <a href="https://huggingface.co/Chris0x88"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="mailto:christopherimg+chris0x88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rhczs6bz4d@privaterelay.appleid.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -62,7 +62,7 @@
       <a href="https://github.com/Chris0x88?tab=repositories">
         <img src="https://img.shields.io/badge/More-on_GitHub-58A6FF?style=for-the-badge&logo=github" alt="More"/><br/>
       </a><br/>
-      <sub>Available for strategic advisory & technical consulting — <a href="mailto:christopherimg+chris0x88@gmail.com">get in touch</a>.</sub>
+      <sub>Available for strategic advisory & technical consulting — <a href="mailto:rhczs6bz4d@privaterelay.appleid.com">get in touch</a>.</sub>
     </td>
   </tr>
 </table>
@@ -87,4 +87,4 @@ I favour the **simplest architecture that ships**. Spec first, working software 
 
 ---
 
-<sub>📬 <a href="mailto:christopherimg+chris0x88@gmail.com">christopherimg+chris0x88@gmail.com</a> · 🌐 <a href="https://chris0x88.github.io">portfolio</a> · 🐙 <a href="https://github.com/Chris0x88">github.com/Chris0x88</a> · 🤗 <a href="https://huggingface.co/Chris0x88">huggingface.co/Chris0x88</a></sub>
+<sub>📬 <a href="mailto:rhczs6bz4d@privaterelay.appleid.com">rhczs6bz4d@privaterelay.appleid.com</a> · 🌐 <a href="https://chris0x88.github.io">portfolio</a> · 🐙 <a href="https://github.com/Chris0x88">github.com/Chris0x88</a> · 🤗 <a href="https://huggingface.co/Chris0x88">huggingface.co/Chris0x88</a></sub>

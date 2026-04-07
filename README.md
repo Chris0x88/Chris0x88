@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Chris0x88">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Shipping+autonomous+AI+agents;Trading+bots+%7C+DeFi+toolkits+%7C+Developer+tools;Self-taught+%7C+Ship-first+%7C+Edge-compute+biased;Freelance+%2B+consulting+available" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Systems+Architect+%7C+Energy+Industry+Veteran;20+Years+Engineering+%2B+Commodity+Trading;Orchestrating+high-stakes+autonomous+AI;Building+the+tools+I+wished+I'd+had+at+the+trade+desk" />
   </a>
 </p>
 
@@ -14,9 +14,10 @@
 
 ## What I build
 
-> **I build autonomous AI systems that take real actions with real consequences** — trading capital, navigating DeFi, accelerating other developers. Not chatbots. Not demos. Systems that *ship* and do work in production.
+> **I build autonomous AI systems that take real actions with real consequences.** 
+> Rooted in 20 years of professional engineering and petroleum industry leadership (running companies, trading gas, managing supply chains), I bridge the gap between complex industrial logic and future-facing autonomous frameworks.
 >
-> **Available for freelance + consulting.** Best fit: hard problems with tight deadlines where the bar is "ship it," not "explore possibilities."
+> **Available for high-stakes problem solving.** Best fit: complex systems that *must* perform in production.
 
 ## Flagship projects
 
@@ -27,21 +28,21 @@
         <img src="assets/logos/hyperliquid-agent.png" width="160" alt="hyperliquid-agent"/><br/>
         <b>hyperliquid-agent</b>
       </a><br/>
-      <sub>Autonomous Hyperliquid trading agent. 23 strategies orchestrated by APEX. No fees, no telemetry, your hardware. Open source.</sub>
+      <sub>Strategic orchestration of 23 quantitative strategies on Hyperliquid. No fees, no telemetry, edge-native.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/spacelord">
         <img src="assets/logos/spacelord.png" width="160" alt="Space Lord"/><br/>
         <b>Space Lord</b>
       </a><br/>
-      <sub>AI-driven Hedera DeFi toolkit on local edge compute. SaucerSwap integration, token analysis, fully local-first.</sub>
+      <sub>Hedera-native Risk Management & Floor Projection framework. Power Law based portfolio analysis.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Chris0x88/claude-cli-auth">
-        <img src="assets/logos/claude-cli-auth.png" width="160" alt="claude-cli-auth"/><br/>
-        <b>claude-cli-auth</b>
+      <a href="https://github.com/Chris0x88/AUS_FUEL_WATCH">
+        <img src="assets/logos/ausfuelwatch.png" width="160" alt="AusFuelWatch"/><br/>
+        <b>AusFuelWatch</b>
       </a><br/>
-      <sub>Authentication tooling for Claude Code workflows. Small, sharp, useful — built to kill a friction point I hit daily.</sub>
+      <sub>Real-time Maritime Supply Chain Intelligence for Australian Fuel Security. Live AIS vessel tracking.</sub>
     </td>
   </tr>
   <tr>
@@ -50,20 +51,20 @@
         <img src="assets/logos/btc-rebalancer.png" width="160" alt="btc-rebalancer"/><br/>
         <b>btc-rebalancer</b>
       </a><br/>
-      <sub>Automated BTC/USDC rebalancing robot on Hedera + SaucerSwap. In production.</sub>
+      <sub>Automated BTC/USDC rebalancing logic on Hedera + SaucerSwap. Built for personal capital management.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/saucerswap-python-sdk">
         <img src="assets/logos/saucerswap-python-sdk.png" width="160" alt="saucerswap-python-sdk"/><br/>
         <b>saucerswap-python-sdk</b>
       </a><br/>
-      <sub>The SDK I wished existed, so I built it. Powers my own trading infra and yours.</sub>
+      <sub>The SDK I wished existed for Hedera DeFi developers. Powers my own trading infra and others.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88?tab=repositories">
         <img src="https://img.shields.io/badge/More-on_GitHub-58A6FF?style=for-the-badge&logo=github" alt="More"/><br/>
       </a><br/>
-      <sub>Freelance + consulting available — <a href="mailto:christopherimg+chris0x88@gmail.com">get in touch</a>.</sub>
+      <sub>Available for strategic advisory & technical consulting — <a href="mailto:christopherimg+chris0x88@gmail.com">get in touch</a>.</sub>
     </td>
   </tr>
 </table>

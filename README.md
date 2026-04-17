@@ -45,11 +45,11 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Chris0x88/btc-rebalancer">
-        <img src="assets/logos/btc-rebalancer.png" width="160" alt="btc-rebalancer"/><br/>
-        <b>btc-rebalancer</b>
+      <a href="https://github.com/Chris0x88/power-law-allocation">
+        <img src="assets/logos/power-law-allocation.png" width="160" alt="power-law-allocation"/><br/>
+        <b>power-law-allocation</b>
       </a><br/>
-      <sub>Automated BTC/USDC rebalancing logic on Hedera + SaucerSwap. Built for personal capital management.</sub>
+      <sub>Bitcoin power-law portfolio allocation model — deterministic, transparent, venue-agnostic research repo.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Chris0x88/saucerswap-python-sdk">

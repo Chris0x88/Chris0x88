@@ -1,7 +1,11 @@
-<p align="center">
+<ssarily="center">
   <a href="https://github.com/Chris0x88">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+sovereign+systems+that+empower+you.;Local+AI.+Self-custody.+Zero+middleware.;Deterministic+execution%2C+intelligent+judgment.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/banner.png" alt="Sovereign Systems Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
 </p>
 
 <p align="center">
@@ -66,16 +70,22 @@ A production Python SDK talking directly to SaucerSwap V2 router contracts. Buil
 
 I optimize for small, readable systems that survive the 3am weekend stop-hunt. Keys belong on disk, code on GitHub, and nothing should secretly phone home. I'd rather ship a 400-line model that is completely transparent than rely on a bloated framework I don't fully understand.
 
-## Stack
+## Stack & Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hedera](https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logoColor=white)
-![Hyperliquid](https://img.shields.io/badge/Hyperliquid-50D2C1?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,docker,linux,fastapi,git,bash&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Hyperliquid-50D2C1?style=for-the-badge">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chris0x88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Chris0x88's GitHub Stats" />
+</p>
 
 ---
 

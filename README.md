@@ -70,7 +70,7 @@ A production Python SDK talking directly to SaucerSwap V2 router contracts. Buil
 
 I optimize for small, readable systems that survive the 3am weekend stop-hunt. Keys belong on disk, code on GitHub, and nothing should secretly phone home. I'd rather ship a 400-line model that is completely transparent than rely on a bloated framework I don't fully understand.
 
-## Stack & Stats
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,docker,linux,fastapi,git,bash&theme=dark" />
@@ -79,12 +79,6 @@ I optimize for small, readable systems that survive the 3am weekend stop-hunt. K
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Hyperliquid-50D2C1?style=for-the-badge">
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris0x88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Chris0x88's GitHub Stats" />
 </p>
 
 ---

@@ -16,15 +16,15 @@
 
 > I build autonomous trading agents, risk systems, and direct-to-chain SDKs—tools designed to give you edge compute without sacrificing sovereignty. No fragile middle-layers, no rented infrastructure. Just keys on your machine and code you control.
 >
-> **The Core Principle:** Deterministic code for execution, AI for judgment. Slash commands handle the fast, zero-credit operations, while LLMs handle the complex reasoning. You shouldn't trust a system blindly; you should be able to argue with it. 
+> **The Core Principle:** Deterministic code for execution, AI for judgment. Slash commands handle the fast, zero-credit operations, while LLMs handle the complex reasoning.
 
 ## Flagship Projects
 
-### [hyperliquid-agent](https://github.com/Chris0x88/hyperliquid-agent) — *An AI trading co-pilot that lives inside your Hyperliquid client*
+### [hyperliquid-agent](https://github.com/Chris0x88/hyperliquid-agent) — *An open-source Hyperliquid trading system with Telegram integration*
 
 <img src="assets/logos/hyperliquid-agent.png" width="120" align="right" alt="hyperliquid-agent"/>
 
-Not a bot that trades for you—a partner that sits beside you. It reads your positions, drafts stop losses, and actively challenges your thesis if you scale leverage too high. It carries the operational workload (account state, trailing stops) so you can stay focused on the trade. Built on Claude Code's runtime with API keys securely locked on your local machine.
+A full-stack, open-source Hyperliquid trading environment featuring a dedicated dashboard and a native Telegram plugin. It uses a custom conviction engine and strict slash commands for deterministic execution, completely isolating trade logic from AI hallucinations. Long-term, the architecture is designed to deeply integrate an agentic framework into the execution loop, but today it operates as a highly robust, locally hosted operational trading interface.
 
 <br clear="right"/>
 

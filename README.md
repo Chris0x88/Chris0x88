@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Chris0x88">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Trained+in+engineering+and+law.+Writing+software+now.;Autonomous+trading.+Edge+compute.+Self-custody.;Keys+on+your+machine.+No+rent%2C+no+middle-layers.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+sovereign+systems+that+empower+you.;Local+AI.+Self-custody.+Zero+middleware.;Deterministic+execution%2C+intelligent+judgment.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,31 +12,27 @@
 
 ---
 
-## What I build
+## What I Build
 
-> Engineering and law before code. I came to software with the habit of specifying things before building them, and treating a live system like something that can actually hurt you. Now I build autonomous trading agents, risk systems, and direct-to-chain SDKs — software that acts on its own but is designed to be argued with, not trusted blindly.
+> I build autonomous trading agents, risk systems, and direct-to-chain SDKs—tools designed to give you edge compute without sacrificing sovereignty. No fragile middle-layers, no rented infrastructure. Just keys on your machine and code you control.
 >
-> **Principle I keep coming back to:** slash commands are cheap deterministic code, AI is expensive judgment. Don't confuse the two. Every system below reflects that split.
+> **The Core Principle:** Deterministic code for execution, AI for judgment. Slash commands handle the fast, zero-credit operations, while LLMs handle the complex reasoning. You shouldn't trust a system blindly; you should be able to argue with it. 
 
-## Flagship projects
+## Flagship Projects
 
 ### [hyperliquid-agent](https://github.com/Chris0x88/hyperliquid-agent) — *An AI trading co-pilot that lives inside your Hyperliquid client*
 
 <img src="assets/logos/hyperliquid-agent.png" width="120" align="right" alt="hyperliquid-agent"/>
 
-Not a bot that trades for you — a partner that sits beside you while you do. Reads your positions, your thesis, and your risk. Drafts stop losses and take profits from the signals and market structure you actually care about. Bounces ideas, argues the other side, questions you when you scale leverage past what the thesis supports. Carries the ugly operational work — account state, trailing stops, profit locking — so the trader can stay on the trade.
-
-Built by porting Claude Code's agent runtime into the trading loop itself. Free-text routes to the embedded agent; fixed commands stay fast, deterministic, and zero-credit. Keys dual-written to an AES-256-GCM vault and macOS Keychain. API wallets only — a leaked key can't withdraw.
+Not a bot that trades for you—a partner that sits beside you. It reads your positions, drafts stop losses, and actively challenges your thesis if you scale leverage too high. It carries the operational workload (account state, trailing stops) so you can stay focused on the trade. Built on Claude Code's runtime with API keys securely locked on your local machine.
 
 <br clear="right"/>
 
-### [Space Lord](https://github.com/Chris0x88/spacelord) — *Your Hedera wallet, exchange, and trading desk collapsed into one local CLI*
+### [Space Lord](https://github.com/Chris0x88/spacelord) — *Your Hedera wallet, exchange, and trading desk in one local CLI*
 
 <img src="assets/logos/spacelord.png" width="120" align="right" alt="Space Lord"/>
 
-Built for the **2026 Hedera Apex Hackathon** as the execution surface for an [OpenClaw](https://openclaw.ai) AI agent. Core design goal was raw edge compute — no third-party APIs between the agent and the chain. Own-rolled comms straight to Hedera mainnet rather than piping through middleware that could rate-limit, go down, or rug the API layer.
-
-The agent drives everything through **CLI tool use, not MCP**: one valid execution path per operation, so the LLM can't invent a swap. Governance is read-only config the agent can't edit (per-swap caps, daily caps, slippage ceilings). Gets faster again once BlockStreams rolls out on Hedera.
+Built for the **2026 Hedera Apex Hackathon**. A raw edge-compute execution surface for AI agents. It provides direct, own-rolled communications to Hedera mainnet, cutting out APIs that can rate-limit or rug you. The agent drives via strict CLI tools, meaning the LLM can't invent swaps or bypass read-only governance caps.
 
 <br clear="right"/>
 
@@ -44,9 +40,7 @@ The agent drives everything through **CLI tool use, not MCP**: one valid executi
 
 <img src="assets/logos/ausfuelwatch.png" width="120" align="right" alt="AusFuelWatch"/>
 
-Built during the March 2026 fuel crisis. Three localhost processes — an AIS WebSocket proxy, a Claude-powered intel server, and a standalone HTML dashboard — no backend, no login, no web server. The dashboard opens from the filesystem.
-
-The Singapore corridor vessel count is the leading indicator for Australian pump prices, so the whole thing exists to watch it. Terrestrial AIS has no coverage across the open Indian Ocean, so tanker departures are detected by snapshot diff rather than live feed.
+Built during the March 2026 fuel crisis to monitor the Singapore corridor—the leading indicator for Australian pump prices. It uses three localhost processes (AIS WebSocket proxy, Claude intel server, and a standalone HTML dashboard) with zero backend or login required. Tanker departures are detected via snapshot diff across the open Indian Ocean.
 
 <br clear="right"/>
 
@@ -54,9 +48,7 @@ The Singapore corridor vessel count is the leading indicator for Australian pump
 
 <img src="assets/logos/power-law-allocation.png" width="120" align="right" alt="power-law-allocation"/>
 
-Same date and price in, same signal out. No database, no historical feed, no ML — just a power law, Kleiber's Law, and a heartbeat. ~400-line core, zero I/O, runs in a Lambda. Ships with a venue-agnostic rebalancer.
-
-**The finding that matters:** a rebalance threshold of **15% or more** is where this strategy earns its keep. Go tighter and fees, slippage, and tax drag eat the edge faster than rebalancing creates it. Bitcoin swings 15% often enough that each time it does, you bank another chunk of value. Five locked constants. I won't tune them — that's the point.
+A ~400-line, zero I/O Lambda function that ships with a venue-agnostic rebalancer. No ML, no databases—just a power law, Kleiber's Law, and a heartbeat. It strictly rebalances at a 15% threshold, banking value on every swing while avoiding fee drag. Five locked constants, zero manual tuning.
 
 <br clear="right"/>
 
@@ -64,15 +56,15 @@ Same date and price in, same signal out. No database, no historical feed, no ML 
 
 <img src="assets/logos/saucerswap-python-sdk.png" width="120" align="right" alt="saucerswap-python-sdk"/>
 
-Production Python SDK that talks to the SaucerSwap V2 router contracts directly rather than hitting the public API. Built for AI agents that need a deterministic, always-on line into Hedera DeFi — no rate limits, no middleware outages, no API layer that can break between you and the trade. Runs my own trading stack and is available for anyone building an agent that needs the same.
+A production Python SDK talking directly to SaucerSwap V2 router contracts. Built for AI agents that require deterministic, always-on execution in Hedera DeFi without risking middleware outages. This powers my own trading stack and is open-sourced for anyone building resilient on-chain agents.
 
 <br clear="right"/>
 
 ---
 
-## How I work
+## How I Work
 
-Bias toward small, readable systems that survive the 3am weekend stop-hunt. Keys on disk, code on GitHub, nothing phoning home. Where an LLM helps, it gets a fixed tool surface; where it doesn't, there's a deterministic command. I'd rather ship a 400-line model I understand than a framework I don't.
+I optimize for small, readable systems that survive the 3am weekend stop-hunt. Keys belong on disk, code on GitHub, and nothing should secretly phone home. I'd rather ship a 400-line model that is completely transparent than rely on a bloated framework I don't fully understand.
 
 ## Stack
 
@@ -84,7 +76,6 @@ Bias toward small, readable systems that survive the 3am weekend stop-hunt. Keys
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ---
 

@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/Chris0x88">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+sovereign+systems+that+empower+you.;Local+AI.+Self-custody.+Zero+middleware.;Deterministic+execution%2C+intelligent+judgment.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=26&duration=3500&pause=800&color=d4b87a&center=true&vCenter=true&width=800&lines=Building+sovereign+systems+that+empower+you.;Local+AI.+Self-custody.+Zero+middleware.;Deterministic+execution%2C+intelligent+judgment.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://chris0x88.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=58a6ff"></a>
-  <a href="https://huggingface.co/Chris0x88"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="mailto:rhczs6bz4d@privaterelay.appleid.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://chris0x88.github.io"><img src="https://img.shields.io/badge/Portfolio-0d0c0b?style=for-the-badge&logo=vercel&logoColor=d4b87a"></a>
+  <a href="https://huggingface.co/Chris0x88"><img src="https://img.shields.io/badge/HuggingFace-1a1815?style=for-the-badge&logo=huggingface&logoColor=FFD21E"></a>
+  <a href="mailto:rhczs6bz4d@privaterelay.appleid.com"><img src="https://img.shields.io/badge/Email-1a1815?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 </p>
 
 ---
@@ -60,9 +60,9 @@ A production Python SDK talking directly to SaucerSwap V2 router contracts. Buil
   <img src="https://skillicons.dev/icons?i=py,ts,docker,linux,fastapi,git,bash&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Hyperliquid-50D2C1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Claude_Code-1a1815?style=for-the-badge&logo=anthropic&logoColor=D97757">
+  <img src="https://img.shields.io/badge/Hedera-1a1815?style=for-the-badge&logoColor=d4b87a">
+  <img src="https://img.shields.io/badge/Hyperliquid-1a1815?style=for-the-badge">
 </p>
 
 ---

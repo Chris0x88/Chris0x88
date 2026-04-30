@@ -1,4 +1,4 @@
-<ssarily="center">
+<p align="center">
   <a href="https://github.com/Chris0x88">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+sovereign+systems+that+empower+you.;Local+AI.+Self-custody.+Zero+middleware.;Deterministic+execution%2C+intelligent+judgment.;Hedera+%C2%B7+Hyperliquid+%C2%B7+Python+%C2%B7+Claude+Code" alt="Typing SVG" />
   </a>

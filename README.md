@@ -36,14 +36,6 @@ Built for the **2026 Hedera Apex Hackathon**. A raw edge-compute execution surfa
 
 <br clear="right"/>
 
-### [AusFuelWatch](https://github.com/Chris0x88/AUS_FUEL_WATCH) — *A live map of the ships carrying Australia's fuel*
-
-<img src="assets/logos/ausfuelwatch.png" width="120" align="right" alt="AusFuelWatch"/>
-
-Built during the March 2026 fuel crisis to monitor the Singapore corridor—the leading indicator for Australian pump prices. It uses three localhost processes (AIS WebSocket proxy, Claude intel server, and a standalone HTML dashboard) with zero backend or login required. Tanker departures are detected via snapshot diff across the open Indian Ocean.
-
-<br clear="right"/>
-
 ### [power-law-allocation](https://github.com/Chris0x88/power-law-allocation) — *A Bitcoin allocation model that decides the BTC/cash split for you*
 
 <img src="assets/logos/power-law-allocation.png" width="120" align="right" alt="power-law-allocation"/>

@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Sovereign Systems Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
-</p>
-
-<p align="center">
   <a href="https://chris0x88.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=58a6ff"></a>
   <a href="https://huggingface.co/Chris0x88"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
   <a href="mailto:rhczs6bz4d@privaterelay.appleid.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -65,10 +61,6 @@ A production Python SDK talking directly to SaucerSwap V2 router contracts. Buil
 <br clear="right"/>
 
 ---
-
-## How I Work
-
-I optimize for small, readable systems that survive the 3am weekend stop-hunt. Keys belong on disk, code on GitHub, and nothing should secretly phone home. I'd rather ship a 400-line model that is completely transparent than rely on a bloated framework I don't fully understand.
 
 ## Stack
 
